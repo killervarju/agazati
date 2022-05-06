@@ -1,0 +1,13 @@
+﻿kenyér étel 300
+tányér egyéb 600
+bor ital 900
+váza egyéb 2000
+lego egyéb 5500
+szalvéta egyéb 200
+joghurt étel 150
+keksz étel 260
+jégkrém étel 560
+pepsi ital 400
+mirinda ital 380
+sió ital 310
+pogácsa étel 150
